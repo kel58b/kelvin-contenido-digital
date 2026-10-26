@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1200" viewBox="0 0 960 1200">
+<rect width="960" height="1200" fill="#fbfaff"/>
+<circle cx="900" cy="90" r="190" fill="#ffe0ed"/><circle cx="45" cy="1110" r="180" fill="#e7e1ff"/>
+<rect x="52" y="48" width="856" height="1104" rx="52" fill="#ffffff" stroke="#e8e3f4" stroke-width="4"/>
+<rect x="96" y="92" width="310" height="66" rx="33" fill="#7557ff"/>
+<text x="126" y="135" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff" letter-spacing="2">GUÍA RÁPIDA</text>
+<text x="96" y="250" font-family="Arial, sans-serif" font-size="60" font-weight="800" fill="#17152b">ANTES DE PUBLICAR,</text>
+<text x="96" y="322" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#7557ff">REVISA ESTAS 3 COSAS</text>
+<g font-family="Arial, sans-serif">
+<rect x="96" y="390" width="768" height="156" rx="28" fill="#fbfaff" stroke="#e8e3f4" stroke-width="3"/>
+<rect x="122" y="426" width="92" height="84" rx="22" fill="#7557ff"/>
+<text x="168" y="480" font-size="36" font-weight="800" text-anchor="middle" fill="#ffffff">01</text>
+<text x="244" y="452" font-size="30" font-weight="800" fill="#17152b">Se entiende qué ofreces</text>
+<text x="244" y="496" font-size="24" fill="#625e78">En una mirada, sin tener que adivinar.</text>
+<rect x="96" y="570" width="768" height="156" rx="28" fill="#fbfaff" stroke="#e8e3f4" stroke-width="3"/>
+<rect x="122" y="606" width="92" height="84" rx="22" fill="#ff78ad"/>
+<text x="168" y="660" font-size="36" font-weight="800" text-anchor="middle" fill="#17152b">02</text>
+<text x="244" y="632" font-size="30" font-weight="800" fill="#17152b">El texto se lee fácil</text>
+<text x="244" y="676" font-size="24" fill="#625e78">Una idea principal y buen contraste.</text>
+<rect x="96" y="750" width="768" height="156" rx="28" fill="#fbfaff" stroke="#e8e3f4" stroke-width="3"/>
+<rect x="122" y="786" width="92" height="84" rx="22" fill="#7557ff"/>
+<text x="168" y="840" font-size="36" font-weight="800" text-anchor="middle" fill="#ffffff">03</text>
+<text x="244" y="812" font-size="30" font-weight="800" fill="#17152b">Hay un siguiente paso</text>
+<text x="244" y="856" font-size="24" fill="#625e78">Escribe, reserva, pregunta o guarda.</text>
+<text x="96" y="1000" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#17152b">Guárdalo para tu próxima publicación.</text>
+<text x="96" y="1070" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#7557ff" letter-spacing="2">KELVIN CONTENIDO DIGITAL  ✦</text>
+</g></svg>
