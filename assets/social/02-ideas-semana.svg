@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1200" viewBox="0 0 960 1200">
+<rect width="960" height="1200" fill="#fbfaff"/>
+<rect width="960" height="365" fill="#17152b"/>
+<circle cx="900" cy="60" r="170" fill="#ff78ad"/><circle cx="40" cy="1140" r="150" fill="#7ce5cf"/>
+<text x="92" y="110" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#ffffff" letter-spacing="2">IDEAS PARA ESTA SEMANA</text>
+<text x="92" y="202" font-family="Arial, sans-serif" font-size="66" font-weight="800" fill="#ffffff">¿QUÉ PUEDES</text>
+<text x="92" y="278" font-family="Arial, sans-serif" font-size="66" font-weight="800" fill="#ff78ad">PUBLICAR HOY?</text>
+<text x="92" y="328" font-family="Arial, sans-serif" font-size="26" fill="#e8e3f4">3 ideas sencillas para pequeños negocios</text>
+<g font-family="Arial, sans-serif">
+<rect x="64" y="420" width="832" height="170" rx="30" fill="#ffffff" stroke="#e8e3f4" stroke-width="4"/>
+<rect x="98" y="462" width="94" height="88" rx="22" fill="#7557ff"/>
+<text x="145" y="518" font-size="40" font-weight="800" text-anchor="middle" fill="#ffffff">A</text>
+<text x="224" y="480" font-size="32" font-weight="800" fill="#17152b">Responde una duda</text>
+<text x="224" y="526" font-size="24" fill="#625e78">¿Cómo funciona tu servicio?</text>
+<text x="224" y="560" font-size="24" fill="#625e78">¿Qué incluye o cuánto tarda?</text>
+<rect x="64" y="620" width="832" height="170" rx="30" fill="#ffffff" stroke="#e8e3f4" stroke-width="4"/>
+<rect x="98" y="662" width="94" height="88" rx="22" fill="#ff78ad"/>
+<text x="145" y="718" font-size="40" font-weight="800" text-anchor="middle" fill="#17152b">B</text>
+<text x="224" y="680" font-size="32" font-weight="800" fill="#17152b">Enseña el proceso</text>
+<text x="224" y="726" font-size="24" fill="#625e78">Un detalle del trabajo, preparación</text>
+<text x="224" y="760" font-size="24" fill="#625e78">o producto que te hace diferente.</text>
+<rect x="64" y="820" width="832" height="170" rx="30" fill="#ffffff" stroke="#e8e3f4" stroke-width="4"/>
+<rect x="98" y="862" width="94" height="88" rx="22" fill="#7ce5cf"/>
+<text x="145" y="918" font-size="40" font-weight="800" text-anchor="middle" fill="#17152b">C</text>
+<text x="224" y="880" font-size="32" font-weight="800" fill="#17152b">Presenta una opción</text>
+<text x="224" y="926" font-size="24" fill="#625e78">Explica para quién es y cómo</text>
+<text x="224" y="960" font-size="24" fill="#625e78">puede pedir información.</text>
+<text x="92" y="1060" font-size="28" font-weight="800" fill="#17152b">Guarda la idea y adáptala a tu marca. ✦</text>
+</g></svg>
